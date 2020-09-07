@@ -1,0 +1,17 @@
+{
+"companyName": "ButterFlies in my mind",
+"productName": "floppy-bird-android",
+"productVersion": "1.0",
+"dataUrl": "floopy-bird-web-game.data.unityweb",
+"wasmCodeUrl": "floopy-bird-web-game.wasm.code.unityweb",
+"wasmFrameworkUrl": "floopy-bird-web-game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "floopy-bird-web-game.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
